@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_masuk">Masuk</string>
+    <string name="txt_error_empty">email dan password tidak boleh kosong</string>
+    <string name="txt_home">Home</string>
+</resources>
